@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This Project makes a single page application where you can searh keywords and you will get similar video 
+suggestions according to the keyword enetered. 
+This Project uses YouTube Data API v3 and Semantic Ui.
+
 ## Available Scripts
 
 In the project directory, you can run:
